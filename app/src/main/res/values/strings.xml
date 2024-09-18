@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mohirdev Sign</string>
+    <string name="fill_name">Fill your information below or register\nwith your social account</string>
+    <string name="log_in">Log in</string>
+    <string name="hi_welcome">Hi! Welcome</string>
+    <string name="email_address">Email Address</string>
+    <string name="create_account">Create Account</string>
+    <string name="fill_your_information_below_or_register_with_your_social_account">Fill your information below or register with your social account</string>
+    <string name="your_name">Your Name</string>
+    <string name="mm_dd_yyyy">MM/DD/YYYY</string>
+    <string name="f">fill_your_information_below_or_register_with_your_social_account</string>
+    <string name="name">Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="address">Address</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="sign_up">Sign up</string>
+    <string name="back">Back</string>
+    <string name="what_s_your_email">What’s your email?</string>
+    <string name="next">Next</string>
+    <string name="show_password">Show Password</string>
+    <string name="by_signing_up_you_agree_to_our_terms_of_service_and_privacy_policy">By signing up, you agree to our <b>Terms of Service</b>> and <b> Privacy Policy</b></string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="please_enter_the_code_we_sent_you_to_email">Please enter the code we sent you to email</string>
+    <string name="didn_t_receive_otp">Didn’t Receive OTP ?</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="_3_of_3">3 of 3</string>
+    <string name="_2_of_3">2 of 3</string>
+    <string name="verify">Verify</string>
+</resources>
